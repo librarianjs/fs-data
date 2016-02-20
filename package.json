@@ -1,0 +1,30 @@
+{
+  "name": "librarian-fs-data",
+  "version": "1.0.0",
+  "description": "A filesystem data plugin for librarian",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/librarianjs/librarian-fs-data.git"
+  },
+  "keywords": [
+    "librarian",
+    "data",
+    "fs"
+  ],
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/librarianjs/librarian-fs-data/issues"
+  },
+  "homepage": "https://github.com/librarianjs/librarian-fs-data",
+  "dependencies": {
+    "lodash.merge": "^4.0.3"
+  }
+}
