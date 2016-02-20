@@ -1,6 +1,6 @@
 {
   "name": "librarian-fs-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A filesystem data plugin for librarian",
   "main": "lib/index.js",
   "directories": {
