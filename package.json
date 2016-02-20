@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/librarianjs/librarian-fs-data.git"
+    "url": "https://github.com/librarianjs/fs-data.git"
   },
   "keywords": [
     "librarian",
@@ -21,9 +21,9 @@
   "author": "Josh Vanderwillik <joshwillik@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/librarianjs/librarian-fs-data/issues"
+    "url": "https://github.com/librarianjs/fs-data/issues"
   },
-  "homepage": "https://github.com/librarianjs/librarian-fs-data",
+  "homepage": "https://github.com/librarianjs/fs-data",
   "dependencies": {
     "lodash.merge": "^4.0.3"
   }
